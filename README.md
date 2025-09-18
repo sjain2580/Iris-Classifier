@@ -65,7 +65,7 @@ cd <repository_name>
 source venv/bin/activate
 ```
 
-1. Run the notebook: Open the iris_classifier_notebook.md file in a Jupyter Notebook environment and run the cells in order.
+3. Run the notebook: Open the iris_classifier_notebook.md file in a Jupyter Notebook environment and run the cells in order.
 
 ## Visualization
 
